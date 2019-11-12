@@ -165,7 +165,7 @@ public class PaginaPreguntas extends JFrame implements ActionListener {
 		panel.add(btnGuardar);
 		setVisible(true);
 	}
-//sadasjjas
+
 	public static void main(String[] args) {
 		PaginaPreguntas ePaginaPreguntas = new PaginaPreguntas();
 	}
