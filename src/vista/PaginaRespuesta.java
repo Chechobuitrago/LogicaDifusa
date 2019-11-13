@@ -28,6 +28,7 @@ public class PaginaRespuesta extends JFrame {
 		JButton btnSalir = new JButton("Salir");
 		btnSalir.setBounds(205, 283, 99, 27);
 		panel.add(btnSalir);
-		// TODO Auto-generated constructor stub
+		setVisible(true);
 	}
+
 }
